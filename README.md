@@ -25,11 +25,7 @@ I am a highly motivated and passionate Full stack developer at heart who enjoys 
 ### 🌱What I'm Learning
 - 🚀 Soft skills and sharp my skills for DevOps.
 
-### 📈Statistics
-![Secret Dev's github stats](https://github-readme-stats.vercel.app/api?username=secret-dev87&hide=prs&text_color=586069&layout=compact&hide_border=true&show_icons=true&theme=tokyonight)
-![Secret Dev's github langs](https://github-readme-stats.vercel.app/api/top-langs/?username=secret-dev87&text_color=586069&layout=compact&hide_border=true&title_color=0366d6&count_private=true&include_all_commits=true&theme=tokyonight&show_icons=true)
-
-## 📈 Github Stats
+### 📈 Github Stats
 
 <br>
 <div align=center>
