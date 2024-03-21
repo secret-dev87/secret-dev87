@@ -30,13 +30,13 @@ I am a highly motivated and passionate Full stack developer at heart who enjoys 
 <br>
 <div align=center>
   <a href="#" title="Go to Source">
-    <img height="180em" align="left" width="33%" src="https://github-readme-stats.vercel.app/api?username=secret-dev87&show_icons=true&theme=gruvbox&border_color=00dafb&include_all_commits=true"/>
+    <img height="180em" align="left" width="32%" src="https://github-readme-stats.vercel.app/api?username=secret-dev87&show_icons=true&theme=gruvbox&border_color=00dafb&include_all_commits=true"/>
   </a>
   <a href="#" title="Go to Source">
-    <img height="180em" width="33%" align="center" src="http://github-readme-streak-stats.herokuapp.com?user=secret-dev87&theme=gruvbox&border=00dafb&fire=DDB80F"/>
+    <img height="180em" width="32%" align="center" src="http://github-readme-streak-stats.herokuapp.com?user=secret-dev87&theme=gruvbox&border=00dafb&fire=DDB80F"/>
   </a>
   <a href="#" title="Go to Source">
-    <img height="180em" width="33%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=secret-dev87&layout=compact&hide_border=true&count_private=true&include_all_commits=true&theme=gruvbox&show_icons=true"/>
+    <img height="180em" width="32%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=secret-dev87&layout=compact&hide_border=true&count_private=true&include_all_commits=true&theme=gruvbox&show_icons=true"/>
   </a>
 </div>
 
